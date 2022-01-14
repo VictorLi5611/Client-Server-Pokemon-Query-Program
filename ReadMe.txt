@@ -1,5 +1,3 @@
-Victor Li ID:101184607 COMP 2401
-
 How to run my code!!!!
 
 1. open 2 terminals
@@ -8,6 +6,7 @@ How to run my code!!!!
 	
 3. On the first terminal, type "./server" and input pokemon file name
 4. On the second terminal, type"./client" 
-5. Happy Marking!!!!!
+
+
 
 
